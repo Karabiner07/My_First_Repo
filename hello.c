@@ -4,5 +4,5 @@ void main()
 {
 /* a simple printf statement */
  printf("Hello, This is programed by Karabiner07");
- getcch();
+ getch();
 }
